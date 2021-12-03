@@ -1,0 +1,14 @@
+{
+  "name": "examenfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "author": "Av",
+  "license": "ISC",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
